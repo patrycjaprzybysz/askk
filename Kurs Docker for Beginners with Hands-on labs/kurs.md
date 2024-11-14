@@ -17,7 +17,6 @@
 ![image](https://github.com/user-attachments/assets/92c0b959-f894-461a-8f0a-31fe9c97db4e)
 ![image](https://github.com/user-attachments/assets/166928af-cef9-42c5-aac5-d2a31e258527)
 ![image](https://github.com/user-attachments/assets/39e58fd0-3d16-44ca-bc09-e9592ce625b7)
-![image](https://github.com/user-attachments/assets/77c7c46f-ac26-4d97-a441-dda84d56cead)
 
 #### wynik
 ![image](https://github.com/user-attachments/assets/dc94d859-26b4-465e-b123-655bd2913e0c)
@@ -34,4 +33,15 @@ Which Docker command is used to list all running containers? - ```docker ps```
 
 #### wynik
 ![image](https://github.com/user-attachments/assets/f534a883-54bf-4f1f-a663-037c491dbe54)
+
+### 
+
+![image](https://github.com/user-attachments/assets/bf66c6ee-324e-4332-a71c-dee1ea9c55d7)
+![image](https://github.com/user-attachments/assets/aa8fc568-329d-4e4e-b380-d4966150c782)
+![image](https://github.com/user-attachments/assets/32e6606a-41dc-490a-ab23-3f9b13be9af7)
+![image](https://github.com/user-attachments/assets/dae853a5-499e-4ce2-b6f2-0e139d236535)
+![image](https://github.com/user-attachments/assets/7cdd77d3-46a2-48fc-9452-6149704129e9)
+
+#### wyniki
+![image](https://github.com/user-attachments/assets/0970c0de-c012-413a-816a-0e8914b3d475)
 
