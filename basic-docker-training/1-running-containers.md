@@ -1,4 +1,4 @@
-# EXERCISE 1
+# EXERCISE 1: running containers
 
 ### Pulling an image
 
