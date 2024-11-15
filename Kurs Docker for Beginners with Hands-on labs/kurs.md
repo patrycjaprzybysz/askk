@@ -80,3 +80,16 @@ Which Docker command is used to list all running containers? - ```docker ps```
 
 ### Container Orchestration
 
+![image](https://github.com/user-attachments/assets/2dd0078b-b901-4c13-ae1d-e024bcb4acdd)
+![image](https://github.com/user-attachments/assets/dd5bb595-e3f6-41b6-b865-39ea50bc71e9)
+![image](https://github.com/user-attachments/assets/17b47995-82c4-49a9-a893-5da7c2c00cbc)
+![image](https://github.com/user-attachments/assets/0d3c4cdf-4068-4604-9318-71cd7f59ae23)
+![image](https://github.com/user-attachments/assets/f93d7076-8444-4de9-9a0e-5f724abe9ad3)
+![image](https://github.com/user-attachments/assets/f1326597-f295-44ad-b850-f321dea7e211)
+![image](https://github.com/user-attachments/assets/4928f3df-b530-46bd-8338-945409c34512)
+![image](https://github.com/user-attachments/assets/776d6e15-6a61-4b56-bf5d-7585b5f2d316)
+
+#### wyniki
+![image](https://github.com/user-attachments/assets/cd6d492d-9b03-486e-9231-2d34cc8c6447)
+
+
