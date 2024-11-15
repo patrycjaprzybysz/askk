@@ -34,7 +34,7 @@ Which Docker command is used to list all running containers? - ```docker ps```
 #### wynik
 ![image](https://github.com/user-attachments/assets/f534a883-54bf-4f1f-a663-037c491dbe54)
 
-### 
+### Docker Images
 
 ![image](https://github.com/user-attachments/assets/bf66c6ee-324e-4332-a71c-dee1ea9c55d7)
 ![image](https://github.com/user-attachments/assets/aa8fc568-329d-4e4e-b380-d4966150c782)
@@ -44,4 +44,39 @@ Which Docker command is used to list all running containers? - ```docker ps```
 
 #### wyniki
 ![image](https://github.com/user-attachments/assets/0970c0de-c012-413a-816a-0e8914b3d475)
+
+### Docker Compose
+
+![image](https://github.com/user-attachments/assets/b935f619-36dd-49df-81c9-a167c0d31cac)
+![image](https://github.com/user-attachments/assets/5a342703-7751-4302-b3b1-4f1274cb4a33)
+![image](https://github.com/user-attachments/assets/dfedb9ca-d9bc-48d2-ad7c-a4db27168b36)
+![image](https://github.com/user-attachments/assets/477f1472-5171-4270-b6d4-9cbfb4b64626)
+![image](https://github.com/user-attachments/assets/c3047cac-78c0-463e-9de4-cf1468c95b22)
+
+#### wyniki
+![image](https://github.com/user-attachments/assets/10567010-87a2-4086-9142-876a9080b560)
+
+### Docker Engine and Storage
+
+![image](https://github.com/user-attachments/assets/3175b207-be1d-4cd2-a1c3-47a7a9544a62)
+![image](https://github.com/user-attachments/assets/60258932-1729-464e-95a9-6c088f6dff73)
+![image](https://github.com/user-attachments/assets/eaf5a3a2-0dcf-43c8-b229-87d769131031)
+![image](https://github.com/user-attachments/assets/8b1320f7-3d71-4fdf-8c47-942768bac89c)
+![image](https://github.com/user-attachments/assets/87301fb9-b68e-48d3-8e11-8f52262a8174)
+
+#### wyniki
+![image](https://github.com/user-attachments/assets/9e20965e-7d15-435e-86b1-ec9c00ca8cdc)
+
+### Docker Networking and Registry
+
+![image](https://github.com/user-attachments/assets/0a64737f-3c62-4899-aafa-016e010ca846)
+![image](https://github.com/user-attachments/assets/d51048e7-7e9b-49f7-b2b3-c52e0bc8610c)
+![image](https://github.com/user-attachments/assets/cf704be8-1525-419f-a82f-09f917861f5b)
+![image](https://github.com/user-attachments/assets/dcafda4e-fe6d-46e3-b23e-871f2209290f)
+![image](https://github.com/user-attachments/assets/70460048-3960-4c4e-8f62-2336c859ee59)
+
+#### wyniki
+![image](https://github.com/user-attachments/assets/df89d552-bd47-41c7-bd55-1fecfd44a6b4)
+
+### Container Orchestration
 
